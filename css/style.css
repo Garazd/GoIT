@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.body{
+	backgraund: rgb(238,238,238);
+}
+
+.main{
+	backgraund: rgb(255,255,255);
+	margin: 0 auto;
+	padding: 0 50px;
+	height: 750px;
+	width: 413px;
+}
+
+/* HEADER */
+
+.header{
+	text-align: center;
+}
+
+.top{
+	text-align: center;
+	font-size: 17px;
+}
+
+.bottom{
+	font-size: 14px;
+}
+
+/* CONTENT */
+
+
+/* FOOTER */
